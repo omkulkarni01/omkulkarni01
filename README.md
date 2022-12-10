@@ -1,7 +1,11 @@
-![MasterHead](https://user-images.githubusercontent.com/74231617/206854585-7f720b93-e042-4f83-a859-b200c3f2e994.jpg)
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img  width="1365"  src="https://user-images.githubusercontent.com/74231617/206864517-7d05fef2-da07-42f6-aab5-ae9b717758c0.PNG" alt="my banner"></a>
+</p>
+
+
 
 <h1 align="center">Hi 👋, I'm Om Kulkarni</h1>
-<h3 align="center">An Enthusiastic Robotics and Mechanical Engineering Student from India</h3>
+<h3 align="center">Robotics and Space Technology Enthusiast from India</h3>
 <img align="right" alt="Robotics" width="400" src="https://i.pinimg.com/originals/50/38/f6/5038f6672f089f3a50c4f075feddfc42.gif">
 
 
@@ -13,11 +17,11 @@
 
 - 🌱 I’m currently studying **Mechanical Engineering course at Pimpri Chinchwad College of Engineering,Pune**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Special Interest **Robotics, AIML, Aerospace engineering**
 
 - 📫 How to reach me **omkulkarni148@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **Hobby of playing chess**:chess_pawn: **and cricket**	:cricket_game: **but like Stargazing** :telescope:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,15 +30,18 @@
 <a href="https://www.youtube.com/@gomechatronics8295/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="GO Mechatronics" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/SolidWorks-Logo.png" alt="SolidWorks" width="110" height="70"/> </a><a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://www.pilz.com/imagecache/mam/pilz/images/import/01_Products_and_Solutions/A0900_robotics/fittosize__752_0_53ab91fb2e1755765c20d5d1df8d5f9d_l_ros_logo_3c_2018_08_1000x562-mobile-1596543825.jpg" alt="ROS" width="70" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="70"/> </a> 
+<h3 align="left">Softwares and Langauges:</h3>
+<p align="left"><a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/SolidWorks-Logo.png" alt="SolidWorks" width="110" height="70"/> </a><a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/580/0*N8Ew1wXNRVOSNO8m" alt="ROS" width="80" height="60"/> </a> <a href="https://in.mathworks.com/?s_tid=gn_logo" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/668/1*NbRX7OQRqdRAnCOeYpCk1A.jpeg" alt="Matlab" width="110" height="60"/> </a> <a href="https://www.ansys.com/en-in" target="_blank" rel="noreferrer"> <img src="https://dwglogo.com/wp-content/uploads/2017/07/ANSYS_logo.png" alt="ANSYS" width="80" height="60"/> </a></p>
+<p>
+ <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="60"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="70"/> </a><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="60"/> </a> <a href="https://www.3ds.com/products-services/catia/products/no-magic/cameo-systems-modeler/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6xIGDXNaqkbY-DSXeU2dRlAgOmoU0kJaqMbDlPIZ87Ni6UHJiOvMXCP6IjYrl5OLzfO8&usqp=CAU" alt="gcp" width="50" height="60"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="60"/> </a>
 
 
  </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkulkarni01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="omkulkarni01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkulkarni01&show_icons=true&locale=en&theme=tokyonight" alt="omkulkarni01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkulkarni01&show_icons=true&locale=en&theme=tokyonight" alt="omkulkarni01" />
+<img align="right" width="400" height="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkulkarni01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="omkulkarni01" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkulkarni01&&theme=tokyonight" alt="rishavchanda" /></p>
+
