@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working on various **autonomous robotics projects**
 
-- 🌱 I’m currently studying **Mechanical Engineering course at Pimpri Chinchwad College of Engineering,Pune**
+- 🌱 I’m currently studying **Aerospace Engineering course at Technical University of Munich, Germany**
 
-- 💬 Special Interest **Robotics, AIML, Aerospace engineering**
+- 💬 Special Interest **Robotics, AIML, Aerospace engineering, Systems Engineering, Plasma research**
 
 - 📫 How to reach me **omkulkarni148@gmail.com**
 
